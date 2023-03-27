@@ -23,7 +23,7 @@ THEN the password is either displayed in an alert or written to the page
    
 
 ### Live URL
-    Http: https://github.com/gtotaku-tg/Passcode-Generator-_-TG/edit/main/README.md
+    https://github.com/gtotaku-tg/Passcode-Generator-_-TG
 
 ### Portfolio Homepage Preview
 * Basic interface
@@ -36,5 +36,6 @@ THEN the password is either displayed in an alert or written to the page
 ### About
 
 ### Contributor
+* jamierachael - Github
 
-# Passcode-Generator_TG
+* Paul Keldsen - Youtube
