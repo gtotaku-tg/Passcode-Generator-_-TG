@@ -26,6 +26,12 @@ THEN the password is either displayed in an alert or written to the page
     Http: https://github.com/gtotaku-tg/Passcode-Generator-_-TG/edit/main/README.md
 
 ### Portfolio Homepage Preview
+* Basic interface
+   ![basic interface](./basic-interface.png)
+* Prompt alert
+   ![prompt alert](./prompt-alert.png)
+* Result
+   ![result](./result.png)
 
 ### About
 
