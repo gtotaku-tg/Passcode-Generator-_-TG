@@ -23,7 +23,7 @@ THEN the password is either displayed in an alert or written to the page
    
 
 ### Live URL
-    https://github.com/gtotaku-tg/Passcode-Generator-_-TG
+   
 
 ### Portfolio Homepage Preview
 * Basic interface
