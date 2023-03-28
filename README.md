@@ -27,9 +27,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ### Portfolio Homepage Preview
 * Basic interface
-   ![basic interface](./basic-interface.png)
+   ![alt ](./basic-interface.png)
 * Prompt alert
-   ![prompt alert](./prompt-alert.png)
+   ![alt text](./prompt-alert.png)
 * Result
    ![result](./result.png)
 
