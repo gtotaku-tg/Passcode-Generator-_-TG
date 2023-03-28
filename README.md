@@ -23,15 +23,17 @@ THEN the password is either displayed in an alert or written to the page
    
 
 ### Live URL
-   
+    Http:
 
 ### Portfolio Homepage Preview
-* Basic interface
-   ![alt ](./basic-interface.png)
+* Basic Interface
+    ![Basic interface](./basic%20interface.png)
+
 * Prompt alert
-   ![alt text](./prompt-alert.png)
+    ![Prompt alert](./prompt%20alert.png)
+
 * Result
-   ![result](./result.png)
+    ![Result](./result.png)
 
 ### About
 
@@ -39,3 +41,5 @@ THEN the password is either displayed in an alert or written to the page
 * jamierachael - Github
 
 * Paul Keldsen - Youtube
+
+# Passcode-Generator_TG
