@@ -41,11 +41,13 @@ Based on the criteria, these things has been changed:
 * User could choice the length of the pass word they want, also, if the password contain `lowercase`, `uppercase`, `number` or `special characters`.
 * After all the confrimation, all the inputs should be validated.
 * Then the password will be generated.
-* The password will be written to the page.
+* At last, password will be written to the page.
 
 ### Contributor
 * jamierachael - Github
 
 * Paul Keldsen - Youtube
+
+* ShiHan - TA
 
 
