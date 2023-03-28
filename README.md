@@ -27,19 +27,25 @@ THEN the password is either displayed in an alert or written to the page
 
 ### Portfolio Homepage Preview
 * Basic Interface
-    ![Basic interface](./basic%20interface.png)
+    ![Basic interface](./basic_interface.png)
 
 * Prompt alert
-    ![Prompt alert](./prompt%20alert.png)
+    ![Prompt alert](./prompt_alert.png)
 
 * Result
     ![Result](./result.png)
 
 ### About
+Based on the criteria, these things has been changed:
+* Prompts pop up after clicking the button to generate a password
+* User could choice the length of the pass word they want, also, if the password contain `lowercase`, `uppercase`, `number` or `special characters`.
+* After all the confrimation, all the inputs should be validated.
+* Then the password will be generated.
+* The password will be written to the page.
 
 ### Contributor
 * jamierachael - Github
 
 * Paul Keldsen - Youtube
 
-# Passcode-Generator_TG
+
